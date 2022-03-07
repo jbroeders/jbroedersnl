@@ -209,6 +209,12 @@ input, select, textarea {
 		width: 100%;
 	}
 
+	#quote {
+		font-weight: bold;
+		/* width: 50%; */
+	
+	}
+
 /* BG */
 
 	#bg {
